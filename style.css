@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+#abc {
+    width: 610px;
+    height:610px;
+    border: solid purple 2px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(240, 195, 195);
+}
+h1{
+    background-color: aquamarine;
+    color: black;
+    width: 200px;
+}
