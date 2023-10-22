@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Silkscreen', sans-serif;
+    text-shadow: 2px 2px 10px;
+}
+#abc{
+    border: solid 2px ;
+    border-radius:5px ;
+    color: blueviolet;
+    background-color: rgb(217, 189, 243);
+    width: 700px;
+    height: 400px;
+}
