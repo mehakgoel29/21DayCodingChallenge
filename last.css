@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(to right, rgb(230, 13, 49),pink);
+    ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 1s;
+    transition-timing-function: ease-out;
+}
+
+li a:hover {
+    background-color: #111;
+    width: 50px;
+
+}
+
+.pic {
+    display: inline;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 25px;
+    padding: 0px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+p{
+    text-align: center;
+    color: brown;
+    font-size:20px;
+    font-family: 'agbalumo';
+}
